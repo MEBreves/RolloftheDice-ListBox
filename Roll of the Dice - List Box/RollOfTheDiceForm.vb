@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2022
 'Roll of the Dice Form Program
-'github url
+'https://github.com/MEBreves/RolloftheDice-ListBox
 
 Option Strict On
 Option Explicit On
